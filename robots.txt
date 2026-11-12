@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://bohaoyuan.github.io/hy-digital-studio/sitemap.xml
